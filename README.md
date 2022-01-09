@@ -1,2 +1,2 @@
-# conditional-rendering-end
+# conditional-rendering-practice
 Created with CodeSandbox
